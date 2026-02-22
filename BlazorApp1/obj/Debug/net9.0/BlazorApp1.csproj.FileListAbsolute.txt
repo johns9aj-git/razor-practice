@@ -76,3 +76,4 @@ c:\Users\AndJo\OneDrive\Desktop\Blazor Project\BlazorApp1\obj\Debug\net9.0\refin
 c:\Users\AndJo\OneDrive\Desktop\Blazor Project\BlazorApp1\obj\Debug\net9.0\BlazorApp1.pdb
 c:\Users\AndJo\OneDrive\Desktop\Blazor Project\BlazorApp1\obj\Debug\net9.0\BlazorApp1.genruntimeconfig.cache
 c:\Users\AndJo\OneDrive\Desktop\Blazor Project\BlazorApp1\obj\Debug\net9.0\ref\BlazorApp1.dll
+c:\Users\AndJo\OneDrive\Desktop\Blazor Project\BlazorApp1\obj\Debug\net9.0\BlazorApp1.sourcelink.json
